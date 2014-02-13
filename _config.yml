@@ -1,0 +1,104 @@
+################################
+#                              #
+# Default Configuration        #
+#                              #
+################################
+
+baseurl: http://replace_me.weditorials.co.nz
+
+title: replace_me | Weditorials Wedding Photography
+subtitle: A Weditorials Photography Creation
+seo:
+  description:
+  keywords: ["wedding photography", "engagement photography"]
+
+assets: /assets
+css:    /assets/css
+js:     /assets/js
+img:    /assets/img
+audio:  /assets/audio
+
+################################
+#                              #
+# Default Settings             #
+#                              #
+################################
+
+# where to read the files from
+source:      ./
+# where to put rendered site source
+destination: ./_site
+# where the layouts can the found
+layouts:     ./_layouts
+includes:     ./_includes
+timezone:     Pacific/Auckland
+
+future:      true
+show_drafts: false
+# removes the .html from rendered pages
+# eg. /contact.html becomes /contact/
+permalink: pretty
+# requires rdiscount gem
+markdown: rdiscount
+
+exclude: [CNAME,Gemfile,Gemfile.lock,Procfile,README.md,bower.json,config.rb,glare,gulpfile.js,jekyll,node_modules,package.json,refresh.sh,sample-page]
+
+################################
+#                              #
+# Author Configuration         #
+#                              #
+################################
+
+author:
+  name:    Sergei Filippov
+  email:   s@haiku.co.nz
+  github:  sergeifilippov
+  twitter: sergeifilippov
+  company:
+    name:   Haiku Lab Limited
+    url:    http://haiku.co.nz
+    github: haikulab
+
+################################
+#                              #
+# Google Analytics             #
+#                              #
+################################
+
+google_analytics_tracking_id:
+google_analytics_tracking_domain: weditorials.co.nz
+
+################################
+#                              #
+# Social                       #
+#                              #
+################################
+
+facebook: "https://www.facebook.com/weditorialsnz/"
+instagram: "http://instagram.com/alyssajouk/"
+pinterest: "http://www.pinterest.com/weditorials/"
+
+################################
+#                              #
+# Facebool: Open Graph         #
+#                              #
+################################
+
+## found in _includes/facebook_og.html
+# og_url: {{site.baseurl}}
+# og_image: {{site.img}}/weditorials_facebook.jpg
+
+og_description: replace_me Wedding Photos by Weditorial.co.nz
+og_type:        website
+og_title:       replace_me Wedding Photos by Weditorial.co.nz
+og_site_name:   replace_me Wedding Photos by Weditorial.co.nz
+
+################################
+#                              #
+# Audio                        #
+#                              #
+################################
+
+song:
+  autoplay: true
+  filename: michael_bubble_sway.mp3
