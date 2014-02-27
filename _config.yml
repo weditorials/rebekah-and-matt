@@ -4,9 +4,9 @@
 #                              #
 ################################
 
-baseurl: http://replace_me.weditorials.co.nz
+baseurl: http://siobhan-and-faavae.weditorials.co.nz
 
-title: replace_me | Weditorials Wedding Photography
+title: Siobhan and Faavae | Weditorials Wedding Photography
 subtitle: A Weditorials Photography Creation
 seo:
   description:
@@ -88,10 +88,10 @@ pinterest: "http://www.pinterest.com/weditorials/"
 # og_url: {{site.baseurl}}
 # og_image: {{site.img}}/weditorials_facebook.jpg
 
-og_description: replace_me Wedding Photos by Weditorial.co.nz
+og_description: Siobhan and Faavae Wedding Photos by Weditorial.co.nz
 og_type:        website
-og_title:       replace_me Wedding Photos by Weditorial.co.nz
-og_site_name:   replace_me Wedding Photos by Weditorial.co.nz
+og_title:       Siobhan and Faavae Wedding Photos by Weditorial.co.nz
+og_site_name:   Siobhan and Faavae Wedding Photos by Weditorial.co.nz
 
 ################################
 #                              #
@@ -100,5 +100,5 @@ og_site_name:   replace_me Wedding Photos by Weditorial.co.nz
 ################################
 
 song:
-  autoplay: true
+  autoplay: false
   filename: michael_bubble_sway.mp3
