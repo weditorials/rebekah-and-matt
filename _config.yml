@@ -9,7 +9,7 @@ baseurl: http://siobhan-and-faavae.weditorials.co.nz
 title: Siobhan and Faavae | Weditorials Wedding Photography
 subtitle: A Weditorials Photography Creation
 seo:
-  description:
+  description: "Welcome to the wedding of Siobhan and Faavae."
   keywords: ["wedding photography", "engagement photography"]
 
 assets: /assets
@@ -39,7 +39,7 @@ show_drafts: false
 # eg. /contact.html becomes /contact/
 permalink: pretty
 # requires rdiscount gem
-markdown: rdiscount
+# markdown: rdiscount
 
 exclude: [CNAME,Gemfile,Gemfile.lock,Procfile,README.md,bower.json,config.rb,glare,gulpfile.js,jekyll,node_modules,package.json,refresh.sh,sample-page]
 
@@ -100,5 +100,5 @@ og_site_name:   Siobhan and Faavae Wedding Photos by Weditorial.co.nz
 ################################
 
 song:
-  autoplay: false
-  filename: michael_bubble_sway.mp3
+  autoplay: true
+  filename: frankie_valli_-_can_t_take_my_eyes_off_you.mp3
