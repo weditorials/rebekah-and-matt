@@ -10,3 +10,12 @@ install needed node packages
 
 `jekyll serve --watch --baseurl ""` or better run `grunt jekyll`
 
+---
+
+## resize image via command line
+
+    sips -Z 640 *.jpg
+
+## with set height
+
+    sips --resampleHeight 235 assets/images/*
