@@ -4,12 +4,12 @@
 #                              #
 ################################
 
-baseurl: http://heavyn-and-rocky.weditorials.co.nz
+baseurl: http://rebekah-and-matt.weditorials.co.nz
 
-title: Heavyn and Rocky | Weditorials Wedding Photography
+title: Rebekah and Matt | Weditorials Wedding Photography
 subtitle: A Weditorials Photography Creation
 seo:
-  description: "Welcome to the wedding of Heavyn and Rocky."
+  description: "Welcome to the wedding of Rebekah and Matt."
   keywords: ["wedding photography", "engagement photography"]
 
 assets: /assets
@@ -88,10 +88,10 @@ pinterest: "http://www.pinterest.com/weditorials/"
 # og_url: {{site.baseurl}}
 # og_image: {{site.img}}/weditorials_facebook.jpg
 
-og_description: Heavyn and Rocky Wedding Photos by Weditorial.co.nz
+og_description: Rebekah and Matt Wedding Photos by Weditorial.co.nz
 og_type:        website
-og_title:       Heavyn and Rocky Wedding Photos by Weditorial.co.nz
-og_site_name:   Heavyn and Rocky Wedding Photos by Weditorial.co.nz
+og_title:       Rebekah and Matt Wedding Photos by Weditorial.co.nz
+og_site_name:   Rebekah and Matt Wedding Photos by Weditorial.co.nz
 
 ################################
 #                              #

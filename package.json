@@ -1,10 +1,10 @@
 {
   "name": "weditorials_photo_them",
-  "version": "1.0",
+  "version": "0.1.0",
   "author": "Sergei Filippov",
   "company": "Haiku Lab Limted",
   "url": "http://haiku.co.nz",
-  "homepage": "http://hayven-and-rocky.weditorials.co.nz",
+  "homepage": "http://rebekah-and-matt.weditorials.co.nz",
   "license": "Limited",
   "description": "jekyll theme",
   "css": "style.css",
