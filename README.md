@@ -19,3 +19,19 @@ install needed node packages
 ## with set height
 
     sips --resampleHeight 235 assets/images/*
+
+
+## optimise all `.jpg` files in a folder `path_to_folder`
+
+    - o = overwrite the files
+
+    find ./path_to_folder -name '*.jpg' | xargs jpegoptim -o
+
+## altenative command
+
+    -m = quality of compression
+
+    jpegoptim assets/wedding/ceremony/* -m70
+
+## for png use optipng
+
